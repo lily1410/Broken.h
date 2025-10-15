@@ -152,6 +152,7 @@ body {
         transition: .5s;
         opacity: 1;
     }
+
 }
 
 
@@ -603,6 +604,7 @@ body {
     .testimonial-carousel .owl-nav {
         top: 6.3rem;
     }
+    
 }
 
 
